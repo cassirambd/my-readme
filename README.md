@@ -1,4 +1,4 @@
-<h3 align="left">Hi! My name is Barbara and I'm a  full stack developer in development 😆<br><br>📌Argentina</h3>
+<h3 align="left">Hi! My name is Barbara and I'm a Full Stack Developer in development 😆<br><br>📌Argentina</h3>
 
 ###
 
